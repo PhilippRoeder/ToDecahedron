@@ -18,7 +18,7 @@ Although its primary goal is to highlight tokens, ToDecahedron can also be used 
 ## Features
 
 - Built-in regex rules for SAML, PASETO, JWT, and LtpaV2 tokens  
-- Custom regex definitions for additional token types or arbitrary patterns  
+- Custom regex definitions for additional token types or arbitrary patterns
 - User-defined highlight colors for each pattern  
 - Automatic marking of matched tokens in Burp Proxy and HTTP history  
 - Notes with pattern names added to matching requests or responses  
@@ -40,6 +40,12 @@ When a match occurs, ToDecahedron highlights it with the configured color and ad
 - Detect and label session identifiers in authentication flows  
 - Visually tag sensitive elements such as API keys or secrets  
 - Extend detection with custom regex patterns for proprietary tokens
+
+## Example token highlighting:
+![alt text](https://github.com/PhilippRoeder/ToDecahedron/blob/main/Screenshot%202025-11-12%20at%2019.11.58.png)
+
+## Settings Panel
+![alt text](https://github.com/PhilippRoeder/ToDecahedron/blob/main/Screenshot%202025-11-12%20at%2019.13.17.png)
 
 ## Authors
 - Philipp Röder: https://github.com/PhilippRoeder
