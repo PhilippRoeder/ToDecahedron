@@ -47,6 +47,13 @@ When a match occurs, ToDecahedron highlights it with the configured color and ad
 ## Settings Panel
 ![alt text](https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/Screenshot%202025-11-12%20at%2019.13.17.png)
 
+## Build Project from Scratch
+1. Clone the git Repository: ```git clone https://github.com/PhilippRoeder/ToDecahedron```
+2. Open the Project in Intellij
+3. Navigate to: View > Tool Windows > Maven
+4. Press: Reload all Maven projects
+5. Build the project: build > Build Project
+6. The .jar will be per default in out > artifacts > ToDecahedron_jar > ToDecahedron.jar
 
 ## Authors
 - Philipp Röder: https://github.com/PhilippRoeder
