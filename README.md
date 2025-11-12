@@ -9,7 +9,7 @@ ToDecahedron marks matching tokens inside Burp’s Proxy and HTTP history views 
 - PASETO (Platform-Agnostic Security Tokens)  
 - JWT (JSON Web Tokens)  
 - LtpaV2  
-- SAML assertions  
+- SAML (Security Assertion Markup Language)
 
 By default, ToDecahedron includes built-in regex patterns for SAML, PASETO, JWT, and LtpaV2 tokens. These can be modified or extended through the settings interface.
 
