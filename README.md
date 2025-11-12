@@ -39,7 +39,13 @@ When a match occurs, ToDecahedron highlights it with the configured color and ad
 - Highlight PASETO, JWT, LTCAV2, or SAML tokens for quick identification  
 - Detect and label session identifiers in authentication flows  
 - Visually tag sensitive elements such as API keys or secrets  
-- Extend detection with custom regex patterns for proprietary tokens  
+- Extend detection with custom regex patterns for proprietary tokens
+
+## Authors
+- Philipp Röder: https://github.com/PhilippRoeder
+- Sebastian Vetter: https://github.com/svetterIO
+- Kartik Rastogi: https://github.com/scatman23/
+
 
 ## License
 
