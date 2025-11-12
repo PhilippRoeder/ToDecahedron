@@ -41,7 +41,7 @@ When a match occurs, ToDecahedron highlights it with the configured color and ad
 - Visually tag sensitive elements such as API keys or secrets  
 - Extend detection with custom regex patterns for proprietary tokens
 
-## Example token highlighting:
+## Example token highlighting
 ![alt text](https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/Screenshot%202025-11-12%20at%2019.11.58.png)
 ![feature Demo](https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/detectTokens.mp4)
 
