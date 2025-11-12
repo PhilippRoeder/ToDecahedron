@@ -43,4 +43,4 @@ When a match occurs, ToDecahedron highlights it with the configured color and ad
 
 ## License
 
-This project is released under the MIT License.
+This project is released under the GPL License.
