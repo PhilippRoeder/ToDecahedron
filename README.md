@@ -47,11 +47,13 @@ When a match occurs, ToDecahedron highlights it with the configured color and ad
 ## Settings Panel
 ![alt text](https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/Screenshot%202025-11-12%20at%2019.13.17.png)
 
+## Demos
+![alt text](https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/detectTokens.gif)
+
 ## Authors
 - Philipp Röder: https://github.com/PhilippRoeder
 - Sebastian Vetter: https://github.com/svetterIO
-- Kartik Rastogi: https://github.com/scatman23/
-
+- Kartik Rastogi: https://github.com/scatman23
 
 ## License
 
