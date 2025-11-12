@@ -53,7 +53,7 @@ When a match occurs, ToDecahedron highlights it with the configured color and ad
 3. Navigate to: View > Tool Windows > Maven
 4. Press: Reload all Maven projects
 5. Build the project: build > Build Project
-6. The .jar will be per default in out > artifacts > ToDecahedron_jar > ToDecahedron.jar
+6. The default location for the .jar is out > artifacts > ToDecahedron_jar > ToDecahedron.jar
 
 ## Authors
 - Philipp Röder: https://github.com/PhilippRoeder
