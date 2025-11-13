@@ -42,7 +42,7 @@ When a match occurs, ToDecahedron highlights it with the configured color and ad
 - Extend detection with custom regex patterns for proprietary tokens
 
 ## Example token highlighting
-![alt text](https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/Screenshot%202025-11-12%20at%2019.11.58.png)
+![alt text](https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/Screenshot%202025-11-13%20at%2009.35.53.png)
 
 ## Settings Panel
 ![alt text](https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/Screenshot%202025-11-12%20at%2019.13.17.png)
