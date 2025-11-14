@@ -56,7 +56,7 @@ When a match occurs, ToDecahedron highlights it with the configured color and ad
 6. The default location for the .jar is out > artifacts > ToDecahedron_jar > ToDecahedron.jar
 
 ## Demo
-![https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/demo.mov](https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/demo.gif)
+![https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/demo.mov](https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/detectTokens%20(1).gif)
 
 ## Authors
 - Philipp Röder: https://github.com/PhilippRoeder
