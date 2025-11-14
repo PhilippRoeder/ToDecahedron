@@ -55,6 +55,9 @@ When a match occurs, ToDecahedron highlights it with the configured color and ad
 5. Build the project: build > Build Project
 6. The default location for the .jar is out > artifacts > ToDecahedron_jar > ToDecahedron.jar
 
+## Demo
+![https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/demo.mov](https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/demo.mov)
+
 ## Authors
 - Philipp Röder: https://github.com/PhilippRoeder
 - Sebastian Vetter: https://github.com/svetterIO
