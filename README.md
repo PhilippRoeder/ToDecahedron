@@ -52,8 +52,9 @@ When a match occurs, ToDecahedron highlights it with the configured color and ad
 2. Open the Project in Intellij
 3. Navigate to: View > Tool Windows > Maven
 4. Press: Reload all Maven projects
-5. Build the project: build > Build Project
-6. The default location for the .jar is out > artifacts > ToDecahedron_jar > ToDecahedron.jar
+5. Build the project: build > Build Project or press View > Tool Windows > Maven > ToDecahedron > Lifecycle > install
+6. The default location for the .jar is out > artifacts > ToDecahedron_jar > ToDecahedron.jar or target > ToDecahedron_{version}.jar
+7. Import the .jar into burp as an extension > add > Select File > Next
 
 ## Demo
 ![https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/demo.mov](https://github.com/PhilippRoeder/ToDecahedron/blob/main/demoPicturesVideos/detectTokens%20(1).gif)
